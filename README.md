@@ -147,5 +147,3 @@ Then link it here:
 
 - ✅ Completed all 3 types of tests
 - ✅ Achieved >70% code coverage
-- ✅ All test suites passed
-- ✅ Added README with instructions and test coverage
